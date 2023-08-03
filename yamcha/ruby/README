@@ -1,8 +1,0 @@
-YamCha ruby module
-
-% ruby extconf.rb
-% make
-% su
-# make install
-
-See test.rb as an example.
